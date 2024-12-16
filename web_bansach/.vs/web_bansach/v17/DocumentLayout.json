@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PhatTrienUDTMDT\\PhatTrienUDTMDT\\BTL\\project\\web_bansach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D0DC4B-52FA-48D8-92AC-BBFC54310F27}|web_bansach\\web_bansach.csproj|e:\\phattrienudtmdt\\phattrienudtmdt\\btl\\project\\web_bansach\\web_bansach\\views\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{C3D0DC4B-52FA-48D8-92AC-BBFC54310F27}|web_bansach\\web_bansach.csproj|solutionrelative:web_bansach\\views\\admin\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D0DC4B-52FA-48D8-92AC-BBFC54310F27}|web_bansach\\web_bansach.csproj|e:\\phattrienudtmdt\\phattrienudtmdt\\btl\\project\\web_bansach\\web_bansach\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C3D0DC4B-52FA-48D8-92AC-BBFC54310F27}|web_bansach\\web_bansach.csproj|solutionrelative:web_bansach\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D0DC4B-52FA-48D8-92AC-BBFC54310F27}|web_bansach\\web_bansach.csproj|e:\\phattrienudtmdt\\phattrienudtmdt\\btl\\project\\web_bansach\\web_bansach\\views\\admin\\trangchuadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C3D0DC4B-52FA-48D8-92AC-BBFC54310F27}|web_bansach\\web_bansach.csproj|solutionrelative:web_bansach\\views\\admin\\trangchuadmin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D0DC4B-52FA-48D8-92AC-BBFC54310F27}|web_bansach\\web_bansach.csproj|e:\\phattrienudtmdt\\phattrienudtmdt\\btl\\project\\web_bansach\\web_bansach\\views\\user\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C3D0DC4B-52FA-48D8-92AC-BBFC54310F27}|web_bansach\\web_bansach.csproj|solutionrelative:web_bansach\\views\\user\\trangchu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D0DC4B-52FA-48D8-92AC-BBFC54310F27}|web_bansach\\web_bansach.csproj|e:\\phattrienudtmdt\\phattrienudtmdt\\btl\\project\\web_bansach\\web_bansach\\views\\user\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{C3D0DC4B-52FA-48D8-92AC-BBFC54310F27}|web_bansach\\web_bansach.csproj|solutionrelative:web_bansach\\views\\user\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D0DC4B-52FA-48D8-92AC-BBFC54310F27}|web_bansach\\web_bansach.csproj|e:\\phattrienudtmdt\\phattrienudtmdt\\btl\\project\\web_bansach\\web_bansach\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C3D0DC4B-52FA-48D8-92AC-BBFC54310F27}|web_bansach\\web_bansach.csproj|solutionrelative:web_bansach\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "trangchuAdmin.aspx",
+              "DocumentMoniker": "E:\\PhatTrienUDTMDT\\PhatTrienUDTMDT\\BTL\\project\\web_bansach\\web_bansach\\views\\admin\\trangchuAdmin.aspx",
+              "RelativeDocumentMoniker": "web_bansach\\views\\admin\\trangchuAdmin.aspx",
+              "ToolTip": "E:\\PhatTrienUDTMDT\\PhatTrienUDTMDT\\BTL\\project\\web_bansach\\web_bansach\\views\\admin\\trangchuAdmin.aspx",
+              "RelativeToolTip": "web_bansach\\views\\admin\\trangchuAdmin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-16T17:01:16.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "admin.Master",
+              "DocumentMoniker": "E:\\PhatTrienUDTMDT\\PhatTrienUDTMDT\\BTL\\project\\web_bansach\\web_bansach\\views\\admin\\admin.Master",
+              "RelativeDocumentMoniker": "web_bansach\\views\\admin\\admin.Master",
+              "ToolTip": "E:\\PhatTrienUDTMDT\\PhatTrienUDTMDT\\BTL\\project\\web_bansach\\web_bansach\\views\\admin\\admin.Master",
+              "RelativeToolTip": "web_bansach\\views\\admin\\admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-16T17:00:47.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "E:\\PhatTrienUDTMDT\\PhatTrienUDTMDT\\BTL\\project\\web_bansach\\web_bansach\\Default.aspx",
+              "RelativeDocumentMoniker": "web_bansach\\Default.aspx",
+              "ToolTip": "E:\\PhatTrienUDTMDT\\PhatTrienUDTMDT\\BTL\\project\\web_bansach\\web_bansach\\Default.aspx",
+              "RelativeToolTip": "web_bansach\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-16T16:55:02.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "trangchu.aspx",
+              "DocumentMoniker": "E:\\PhatTrienUDTMDT\\PhatTrienUDTMDT\\BTL\\project\\web_bansach\\web_bansach\\views\\user\\trangchu.aspx",
+              "RelativeDocumentMoniker": "web_bansach\\views\\user\\trangchu.aspx",
+              "ToolTip": "E:\\PhatTrienUDTMDT\\PhatTrienUDTMDT\\BTL\\project\\web_bansach\\web_bansach\\views\\user\\trangchu.aspx",
+              "RelativeToolTip": "web_bansach\\views\\user\\trangchu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-16T16:06:11.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "E:\\PhatTrienUDTMDT\\PhatTrienUDTMDT\\BTL\\project\\web_bansach\\web_bansach\\views\\user\\Site1.Master",
+              "RelativeDocumentMoniker": "web_bansach\\views\\user\\Site1.Master",
+              "ToolTip": "E:\\PhatTrienUDTMDT\\PhatTrienUDTMDT\\BTL\\project\\web_bansach\\web_bansach\\views\\user\\Site1.Master",
+              "RelativeToolTip": "web_bansach\\views\\user\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-16T15:45:53.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "packages.config",
+              "DocumentMoniker": "E:\\PhatTrienUDTMDT\\PhatTrienUDTMDT\\BTL\\project\\web_bansach\\web_bansach\\packages.config",
+              "RelativeDocumentMoniker": "web_bansach\\packages.config",
+              "ToolTip": "E:\\PhatTrienUDTMDT\\PhatTrienUDTMDT\\BTL\\project\\web_bansach\\web_bansach\\packages.config",
+              "RelativeToolTip": "web_bansach\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-16T15:30:10.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
