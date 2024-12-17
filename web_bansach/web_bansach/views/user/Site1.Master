@@ -83,11 +83,10 @@
         nav {
             background-color: #333;
         }
-
         .menu ul {
-            display: flex;
-            justify-content: center;
-            align-items: center;
+            
+           
+            
             list-style: none;
             padding: 10px 0;
         }
@@ -117,8 +116,8 @@
         .submenu {
             display: none;
             position: absolute;
-            top: 100%;
-            left: 0;
+            top: 0%;
+            left: 100%;
             background-color: #444;
             padding: 10px 0;
             border-radius: 5px;
@@ -162,54 +161,66 @@
             </div>
             <div id="timkiem">
                 <input placeholder="Tìm kiếm....">
+               
                 <icon class="fas fa-search"></icon>
             </div>
             <div>
                 <div id="giohang" class="fix_header">
-                    <icon class="fas fa-shopping-cart"></icon>
+                    <a href=" "><icon class="fas fa-shopping-cart"></icon></a>
+                    
                     <p>Giỏ hàng</p>
                 </div>
                 <div id="taikhoan" class="fix_header">
-                    <icon class="fas fa-user"></icon>
+                    <a href=" "><icon class="fas fa-user"></icon></a>
+                    
                     <p>Tài khoản</p>
                 </div>
             </div>
 
         </header>
     </div>
-
-    <nav>
-        <div class="menu">
-            <ul>
-                <li><a href="">Trang chủ</a></li>
-                <li><a href="">Sách truyện ></a>
-                    <div class="submenu">
+    <table>
+        <tr>
+            <td style="display:flex; align-items:flex-start">
+                <nav>
+                    <div class="menu">
                         <ul>
-                            <li><a href="">Sách ngắn</a></li>
-                            <li><a href="">Tiểu thuyết</a></li>
-                            <li><a href="">Ngôn tình</a></li>
+                            <li ><a href="">Danh mục sản phẩm</a></li>
+                            <li><a href="">Sách truyện ></a>
+                                <div class="submenu">
+                                    <ul>
+                                        <li><a href="">Sách ngắn</a></li>
+                                        <li><a href="">Tiểu thuyết</a></li>
+                                        <li><a href="">Ngôn tình</a></li>
+                                    </ul>
+                                </div>
+                            </li>
+                            <li><a href="">Sách ngoại văn</a></li>
+                            <li><a href="">Sách giáo khoa</a></li>
+                            <li><a href="">Dụng cụ học tập ></a>
+                                <div class="submenu">
+                                    <ul>
+                                        <li><a href="">Thước</a></li>
+                                        <li><a href="">Bút mực</a></li>
+                                        <li><a href="">Bút chì</a></li>
+                                    </ul>
+                                </div>
+                            </li>
                         </ul>
                     </div>
-                </li>
-                <li><a href="">Sách ngoại văn</a></li>
-                <li><a href="">Sách giáo khoa</a></li>
-                <li><a href="">Dụng cụ học tập ></a>
-                    <div class="submenu">
-                        <ul>
-                            <li><a href="">Thước</a></li>
-                            <li><a href="">Bút mực</a></li>
-                            <li><a href="">Bút chì</a></li>
-                        </ul>
-                    </div>
-                </li>
-            </ul>
-        </div>
 
-    </nav>
+                </nav>
+            </td>
+            <td>
+                <div class="content">
+                    <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+                </div>
+            </td>
+        </tr>
+    </table>
+    
 
-    <div class="content">
-        <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
-    </div>
+    
 
     <footer>
         <p>&copy; 2024 My Website. All rights reserved.</p>
