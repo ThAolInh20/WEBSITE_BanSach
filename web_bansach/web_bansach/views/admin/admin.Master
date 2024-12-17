@@ -180,14 +180,12 @@
 
         </header>
     </div>
-
+   
     <nav>
         <div class="menu">
             <ul>
                 <li><a href="">Trang chủ</a></li>
-                <li><a href="">Quản lý tài khoản</a>
-
-                </li>
+                <li><a href="">Quản lý tài khoản</a></li>
                 <li><a href="">Quản lý Sản phẩm</a></li>
                 <li><a href="">Quản lý Hóa đơn</a></li>
 
